@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "static",
+			"path": "../../Downloads/python-flask-app-feature-login-page/python-flask-app-feature-login-page/static"
+		},
+		{
+			"name": "login_flask",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
